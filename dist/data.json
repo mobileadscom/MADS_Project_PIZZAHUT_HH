@@ -1,0 +1,21 @@
+/* eslint-disable */
+json_data = {
+  'bg1': 'img/full-bg-pilih-makan.png',
+  'iceblendpink': 'img/ice blend pink.png',
+  'stroberiSmooth': 'img/stroberi-smooth.png',
+  'iceblendchoco': 'img/iceblend choco.png',
+  'iceblendmocca': 'img/iceblend-mocca.png',
+  'teaCup': 'img/tea-cup.png',
+  'checked': 'img/checked.png',
+  'pizza': 'img/pizza.png',
+  'potatoBucket': 'img/potato-bucket.png',
+  'garlicBread': 'img/garlic-bread.png',
+  'potato': 'img/potato.png',
+  'bread': 'img/bread.png',
+  'btnPilih': 'img/button-pilih.png',
+  'plus': 'img/plus.png',
+  'logo': 'img/logo-MUI.png',
+  'bgFullScroll': 'img/bg-full-scroll.png',
+  'allMenu': 'img/all-menu.png',
+  'menuLain': 'img/menu-lain.png'
+}

@@ -1,0 +1,98 @@
+#rma-widget, #ad-container {
+    width: 320px;
+    height: 480px;
+}
+
+#ad-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#selections {
+    height: 290px;
+    position: absolute;
+    left: 0;
+    top: 190px;
+    width: 320px;
+    overflow: hidden;
+}
+
+#left-selection {
+    display: block;
+    height: 230px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 120px;
+    position: absolute;
+    direction: rtl;
+    left: 30px;
+}
+
+#left-selection .item {
+    position: absolute;
+    cursor: pointer;
+}
+
+#left-selection .item:nth-child(1) {
+    left: 0;
+}
+
+#left-selection .item:nth-child(2) {
+    top: 60px;
+    left: 50px;
+}
+
+#left-selection .item:nth-child(3) {
+    top: 120px;
+    left: 10px;
+}
+
+#left-selection .item:nth-child(4) {
+    top: 190px;
+    left: 40px;
+}
+
+#left-selection .item:nth-child(5) {
+    top: 290px;
+}
+
+#right-selection {
+    display: block;
+    height: 230px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 120px;
+    position: absolute;
+    right: 20px;
+}
+
+#right-selection .item {
+    position: relative;
+    cursor: pointer;
+}
+
+#btnPilih {
+    position: absolute;
+    bottom: 0px;
+    left: 60px;
+}
+
+#plus {
+    left: 140px;
+    bottom: 160px;
+    position: absolute;
+}
+
+#logo {
+    left: 140px;
+    bottom: 60px;
+    position: absolute;
+}
+
+#selected {
+    text-align: center;
+    top: 250px;
+    position: absolute;
+    width: 100%;    
+}
